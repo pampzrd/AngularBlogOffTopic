@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "titulo";
+  src:
+    url("../../../../public/CroissantOne-Regular.ttf") format("truetype");
+}
+
+.tituloBox{
+  width: 100%;
+  text-align: center;
+}
+.tituloBox > h1{
+  font-size: 40pt;
+  color: saddlebrown;
+  font-family: titulo;
+}

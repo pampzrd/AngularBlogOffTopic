@@ -1,0 +1,13 @@
+.menu>ul{
+  display: inline-flex;
+  gap: 60pt;
+  list-style: none;
+}
+
+.menu > ul > a{
+  text-decoration: none;
+}
+.menu > ul > a > li {
+  text-decoration: none;
+
+}
